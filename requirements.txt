@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+prometheus-fastapi-instrumentator
+psutil
+requests
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-instrumentation-requests
