@@ -1,4 +1,4 @@
-# � Agenda API com Monitoramento
+# Agenda API com Monitoramento
 
 Uma API REST moderna para gerenciar contatos de agenda com sistema completo de monitoramento e observabilidade.
 
