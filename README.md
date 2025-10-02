@@ -35,21 +35,6 @@ Uma API REST moderna para gerenciar contatos de agenda com sistema completo de m
 - **Docker & Docker Compose** - Containerization and orchestration
 - **Git** - Version control
 
-## 📊 Monitoring Architecture
-
-```mermaid
-graph TB
-    A[FastAPI App] --> B[Prometheus]
-    C[MySQL] --> D[MySQL Exporter] --> B
-    E[cAdvisor] --> B
-    B --> F[Grafana]
-    
-    A --> G[HTTP Metrics]
-    A --> H[CPU/RAM Metrics]
-    C --> I[DB Metrics]
-    E --> J[Container Metrics]
-```
-
 ### Portas dos Serviços
 | Serviço | Porta | URL |
 |---------|-------|-----|
