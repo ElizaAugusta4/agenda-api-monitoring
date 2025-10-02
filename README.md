@@ -70,8 +70,7 @@ Após inicialização completa (~2 minutos):
 - **📊 Grafana:** http://localhost:3000 (admin/admin)
 - **🔍 Prometheus:** http://localhost:9090
 - **📋 Loki:** http://localhost:3100
-```
-```
+
 
 ## 🌐 Endpoints da API
 
